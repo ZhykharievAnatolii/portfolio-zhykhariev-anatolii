@@ -1,6 +1,6 @@
 import React from "react";
-import PropTypes from "prop-types"
-export const Header=({logoText})=>{
+import './index.css'
+export const Header=()=>{
     return(<nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
             <a className="navbar-brand" href="#">Navbar</a>

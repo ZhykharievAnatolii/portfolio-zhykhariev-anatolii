@@ -3,10 +3,13 @@ import {createRoot} from "react-dom/client";
 import {Application} from "./Application";
 
 import 'bootstrap';
-import {Header} from "./Header";
 import './index.css'
 const root=createRoot(document.querySelector('#root'));
 
 root.render(
-    <Application/>
+    <React.StrictMode>
+
+        <Application />
+
+    </React.StrictMode>
 )

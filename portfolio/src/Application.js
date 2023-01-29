@@ -2,11 +2,11 @@ import React from "react";
 import {Header} from "./Header";
 import {Main} from "./Main";
 import {Footer} from "./Footer";
-
-export const Application=()=>
-    <div className='Wrapper'>
+import './index.css'
+export const Application=()=>{
+  return( <>
         <Header/>
-    </div>
-   <>  <div className='Wrapper'>
+      <Main/>
        <Footer/>
-   </div></>
+
+  </>)}
