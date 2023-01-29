@@ -7,3 +7,6 @@ export const Application=()=>
     <div className='Wrapper'>
         <Header/>
     </div>
+   <>  <div className='Wrapper'>
+       <Footer/>
+   </div></>
