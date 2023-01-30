@@ -15,12 +15,12 @@ export const Header=()=>{
                         <a className="nav-link active" aria-current="page" href="#">Home</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#">Link</a>
+                        <a className="nav-link" href="https://github.com/ZhykharievAnatolii">Github page</a>
                     </li>
                     <li className="nav-item dropdown">
                         <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                            aria-expanded="false">
-                            Dropdown
+                            My works
                         </a>
                         <ul className="dropdown-menu">
                             <li><a className="dropdown-item" href="#">Action</a></li>
