@@ -26,9 +26,10 @@ export const Header=()=>{
                             <li><a className="dropdown-item" href="https://zhykharievanatolii.github.io/">Markup portfolio project</a></li>
                             <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/Fine-Client">Fine-Client App</a></li>
                             <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/reactWorks">React works</a></li>
-                            <li><a className="dropdown-item" href="#">Another action</a></li>
-                            <li><a className="dropdown-item" href="#">Another action</a></li>
-                            <li><a className="dropdown-item" href="#">Another action</a></li>
+                            <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/Client-Server-App">Client-Server App</a></li>
+                            <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/ClockApplication">Clock Application</a></li>
+                            <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/adaptiveproject">Markup adaptive project</a></li>
+                            <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/chevronnavmenuproject">Chevron markup project</a></li>
                             <li><a className="dropdown-item" href="#">Another action</a></li>
                             <li>
                             </li>
