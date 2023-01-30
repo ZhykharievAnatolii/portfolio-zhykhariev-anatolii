@@ -33,7 +33,7 @@ export const Header=()=>{
                             <li><a className="dropdown-item" href="#">Another action</a></li>
                             <li>
                             </li>
-                            <li><a className="dropdown-item" href="#">Something else here</a></li>
+                            <li><a className="dropdown-item" href="mailto:nekijt87@gmail.com">Whant to collaborate?</a></li>
                         </ul>
                     </li>
                     <li className="nav-item">

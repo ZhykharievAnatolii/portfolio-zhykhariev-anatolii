@@ -4,7 +4,7 @@ export const Main=()=>{
     return(
         <div>
             <div className="card" style={{"width": "18rem"}}>
-            <img src="..." className="card-img-top" alt="..."/>
+            <img src="/portfolio/img/myfoto.jpg" className="card-img-top" alt="my photo"/>
                 <div className="card-body">
                     <p className="card-text">Hi, I’m Zhykhariev Anatolii
                         I’m a Frontend developer
@@ -18,7 +18,7 @@ export const Main=()=>{
                 </div>
         </div>
             <div className="card" style={{"width": "18rem"}}>
-                <img src="..." className="card-img-top" alt="..."/>
+                <img src="/portfolio/img/certificatemarkup.png" className="card-img-top" alt="certificate"/>
                 <div className="card-body">
                     <p className="card-text">
                         I have already finished a course about
