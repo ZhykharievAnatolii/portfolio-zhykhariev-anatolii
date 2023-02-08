@@ -30,9 +30,6 @@ export const Header=()=>{
                             <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/ClockApplication">Clock Application</a></li>
                             <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/adaptiveproject">Markup adaptive project</a></li>
                             <li><a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/chevronnavmenuproject">Chevron markup project</a></li>
-                            <li><a className="dropdown-item" href="#">Another action</a></li>
-                            <li>
-                            </li>
                             <li><a className="dropdown-item" href="mailto:nekijt87@gmail.com">Whant to collaborate?</a></li>
                         </ul>
                     </li>
