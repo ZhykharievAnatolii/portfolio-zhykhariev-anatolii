@@ -1,6 +1,7 @@
 import React from "react";
 import './index.css';
 import Photo from './assets/myfoto.jpg'
+import Certificate from './assets/certificatemarkup.png'
 export const Main=()=>{
     return(
         <div>
@@ -19,7 +20,7 @@ export const Main=()=>{
                 </div>
         </div>
             <div className="card" style={{"width": "18rem"}}>
-                <img src="" className="card-img-top" alt="certificate"/>
+                <img src="{Certificate}" className="card-img-top" alt="certificate"/>
                 <div className="card-body">
                     <p className="card-text">
                         I have already finished a course about
