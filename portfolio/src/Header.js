@@ -33,9 +33,6 @@ export const Header=()=>{
                             <li><a className="dropdown-item" href="mailto:nekijt87@gmail.com">Whant to collaborate?</a></li>
                         </ul>
                     </li>
-                    <li className="nav-item">
-                        <a className="nav-link disabled">Disabled</a>
-                    </li>
                 </ul>
             </div>
         </div>
