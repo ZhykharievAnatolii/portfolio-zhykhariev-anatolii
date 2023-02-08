@@ -4,11 +4,12 @@ import Photo from './assets/myfoto.jpg'
 import Certificate from './assets/certificatemarkup.png'
 export const Main=()=>{
     return(
-        <div>
+        <div className="">
             <div className="card" style={{"width": "18rem"}}>
             <img src={Photo} className="card-img-top" alt="my photo"/>
                 <div className="card-body">
                     <p className="card-text">Hi, I’m Zhykhariev Anatolii
+                        Hi, I’m ZhykharievAnatolii
                         I’m a Frontend developer
                         I’m currently learning JavaScript.
                         I like the chosen field of activity and I have experience in continuous learning.
@@ -20,11 +21,13 @@ export const Main=()=>{
                 </div>
         </div>
             <div className="card" style={{"width": "18rem"}}>
-                <img src="{Certificate}" className="card-img-top" alt="certificate"/>
+                <img src={Certificate} className="card-img-top" alt="certificate"/>
                 <div className="card-body">
                     <p className="card-text">
                         I have already finished a course about
-                        JavaScript, Node, React, HTML, CSS,
+                        Html, CSS, Bootstrap, PostCSS, Git, GitHub,
+                        JavaScript, DOM, Listeners, Promises,
+                        Fastify,Backend,PostgresQL,Auth libs, Webpack
                         and have knowledge about the structure and how it works.</p>
                 </div>
             </div>
